@@ -1,0 +1,15 @@
++----------+---------+---+-------------+------+
+|First_Name|Last_Name|ID |Date_Of_Birth|Gender|
++----------+---------+---+-------------+------+
+|Harsh     |Singhania|123|08/19/1998   |M     |
+|Kat       |Garcia   |675|04/10/1980   |F     |
+|Kevin     |Miller   |321|02/11/2000   |M     |
+|John      |Doe      |456|10/22/1995   |M     |
+|Jasmine   |Brown    |931|09/01/1983   |F     |
+|Micheal   |Smith    |342|06/06/1999   |M     |
+|Catherine |Ann      |999|12/01/1988   |F     |
+|James     |Bond     |721|12/01/1988   |M     |
+|Anurag    |Kumar    |490|12/22/1978   |M     |
+|Cole      |Adams    |537|07/05/1998   |M     |
+|Patricia  |Martinez |115|12/01/1988   |F     |
++----------+---------+---+-------------+------+

@@ -1,0 +1,15 @@
++----------+---------+---------+----------------+----------+----------------+
+|First_Name|Last_Name|Doctor_ID|Patient_Treating|Patient_ID|Speciality      |
++----------+---------+---------+----------------+----------+----------------+
+|Amey      |Sharma   |9854     |Harsh           |123       |Pediatricians   |
+|Amey      |Sharma   |9854     |Jasmine         |931       |Pediatricians   |
+|Amey      |Sharma   |9854     |Anurag          |490       |Pediatricians   |
+|Amey      |Sharma   |9854     |Patricia        |115       |Pediatricians   |
+|Rahul     |Jain     |1887     |John            |456       |Cardiologists   |
+|Rahul     |Jain     |1887     |Catherine       |999       |Cardiologists   |
+|Rahul     |Jain     |1887     |Cole            |537       |Cardiologists   |
+|Amogh     |Patnaik  |1347     |James           |721       |Ophthalmologists|
+|Amogh     |Patnaik  |1347     |Kat             |675       |Ophthalmologists|
+|Jay       |Kishan   |3421     |Micheal         |342       |Dermatologists  |
+|Jay       |Kishan   |3421     |Kevin           |321       |Dermatologists  |
++----------+---------+---------+----------------+----------+----------------+
